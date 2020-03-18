@@ -7,6 +7,8 @@ subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 accordion:
   - content: 'jakis tekst cos tam '
     title: test tes test
+  - content: 'jakis tekst do dodania. '
+    title: 'klejnmy dodatke '
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
